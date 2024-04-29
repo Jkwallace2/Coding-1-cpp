@@ -1,3 +1,4 @@
+//week 8 Jaedon wallace
 #include <algorithm>
 #include <cstdlib>
 #include <ctime>
